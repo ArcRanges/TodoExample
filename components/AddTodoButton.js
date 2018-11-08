@@ -9,7 +9,15 @@ const propTypes = {
 
 // renders the add todo floating button
 const AddTodoButton = ({ onPress }) => (
-
+  <Fab
+      direction="up"
+      containerStyle={{}}
+      style={{ backgroundColor: COLORS.primary }}
+      position="bottomRight"
+      onPress={onPress}
+  >
+      <Icon name="add" />
+  </Fab>
 );
 
 AddTodoButton.propTypes = propTypes;

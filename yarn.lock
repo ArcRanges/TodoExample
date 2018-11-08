@@ -10,13 +10,13 @@
     redux "^3.7.2"
     redux-thunk "^2.2.0"
 
-"@appbaseio/reactivesearch-native@^0.4.1":
-  version "0.4.1"
-  resolved "https://registry.yarnpkg.com/@appbaseio/reactivesearch-native/-/reactivesearch-native-0.4.1.tgz#24cb2c8cbcc57a775ec70d95d70213cb8f0e8c62"
+"@appbaseio/reactivesearch-native@^0.5.0":
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/@appbaseio/reactivesearch-native/-/reactivesearch-native-0.5.0.tgz#df60cffdaa60f7a889c4ed1b6fc75a46ebf84fd1"
   dependencies:
     "@appbaseio/reactivecore" "^1.3.2"
     "@ptomasroos/react-native-multi-slider" "^0.0.11"
-    appbase-js "^2.2.9"
+    appbase-js "^2.2.10"
     hoist-non-react-statics "^2.3.1"
     native-base "^2.3.7"
     prop-types "^15.6.0"
@@ -285,9 +285,9 @@ anymatch@^1.3.0:
     micromatch "^2.1.5"
     normalize-path "^2.0.0"
 
-appbase-js@^2.2.9:
-  version "2.2.10"
-  resolved "https://registry.yarnpkg.com/appbase-js/-/appbase-js-2.2.10.tgz#277af94ad0077ab17b92e591712764e52a10c289"
+appbase-js@^2.2.10:
+  version "2.3.0"
+  resolved "http://registry.npmjs.org/appbase-js/-/appbase-js-2.3.0.tgz#b647d98fb794c7a3c14c1d8a6adbf8b47d47a674"
   dependencies:
     babel-polyfill "^6.26.0"
     cross-fetch "^1.1.1"

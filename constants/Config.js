@@ -1,7 +1,7 @@
 // all the app configurations
 export default {
     url: 'https://scalr.api.appbase.io',
-    app: 'todos-native',
-    credentials: 'ylk5rT3SA:c2f74c2c-7812-4f1b-af13-2679d0a3cf79',
-    type: 'todos-native',
+    app: 'todo-now',
+    credentials: 'zRcZoNi7E:0c99d9ec-d15b-42f1-a83c-eb6ce07b4038',
+    type: 'todo-now',
 };
